@@ -1,0 +1,24 @@
+.par {
+    text-decoration: line-through;
+}
+
+.container{
+    background-color: #b93cad; 
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin:15px;
+    min-width: 50%; 
+   border-radius: 20px;
+   color:white;
+   
+    
+}
+
+.todoButton {
+    border-radius: 10px;
+    color:#b93cad;
+    margin: 7px;
+    border: 0;
+}
+
